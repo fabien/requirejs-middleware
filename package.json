@@ -1,10 +1,10 @@
 {
-  "name": "requirejs-middleware",
+  "name": "@atelierfabien/requirejs-middleware",
   "version": "0.2.0",
   "description": "Connect middleware for RequireJS compiling",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jbuck/requirejs-middleware.git"
+    "url": "git://github.com/fabien/requirejs-middleware.git"
   },
   "keywords": [
     "requirejs",
